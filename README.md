@@ -11,10 +11,6 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 - Contact with social media links (LinkedIn, GitHub, Telegram, etc.)
 - Downloadable resume (CV)
 
-## 🌐 Live Website
-
-🔗 [Visit Portfolio Live](https://asthana-16.github.io/My-portfolio/)
-
 ## 📁 Technologies Used
 
 - HTML5
