@@ -2,6 +2,9 @@
 
 This is my personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information — designed to help recruiters and collaborators get to know me better.
 
+## Site Preview
+https://abhinav-asthana.netlify.app/
+
 ## 🚀 Features
 
 - Clean, modern responsive design
